@@ -3,7 +3,7 @@
 **Goal:** submit one correct flag. **Time:** 15 minutes.
 
 ## What is a flag?
-A flag is a secret string hidden inside a challenge. It usually looks like `SKR{something_here}`. Finding it proves you solved the challenge.
+A flag is a secret string hidden inside a challenge. It usually looks like `7h1s_15_7h3_Fl@g`. Finding it proves you solved the challenge. However, you need to submit the flag as `SKR{7h1s_15_7h3_Fl@g}` across SKRCTF unless specified.
 
 ## Steps
 1. Open **Challenges** and choose the **Warm up** category.

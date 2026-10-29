@@ -3,8 +3,9 @@
 **Goal:** a working SKRCTF login. **Time:** 5 minutes.
 
 1. Go to [skrctf.me](https://skrctf.me) and select **Register**.
-2. Enter a username, email and password.
-3. Log in and open **Challenges**.
+2. Enter a username, email and password (wait for email activation [Check SPAM/Junk folder])
+3. Create / Join a Team. Create a Team if you are running on solo.
+4. Log in and open **Challenges**.
 
 !!! note
     Your username appears on the public scoreboard. Pick one you are happy for others to see.
