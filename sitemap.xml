@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://ljkh00.github.io/skrctf-learning-docs/</loc>
+         <lastmod>2026-10-29</lastmod>
+    </url>
+    <url>
+         <loc>https://ljkh00.github.io/skrctf-learning-docs/contributing/style-guide/</loc>
+         <lastmod>2026-10-29</lastmod>
+    </url>
+    <url>
+         <loc>https://ljkh00.github.io/skrctf-learning-docs/contributing/writeup-template/</loc>
+         <lastmod>2026-10-29</lastmod>
+    </url>
+    <url>
+         <loc>https://ljkh00.github.io/skrctf-learning-docs/insights/metrics/</loc>
+         <lastmod>2026-10-29</lastmod>
+    </url>
+    <url>
+         <loc>https://ljkh00.github.io/skrctf-learning-docs/onboarding/01-create-account/</loc>
+         <lastmod>2026-10-29</lastmod>
+    </url>
+    <url>
+         <loc>https://ljkh00.github.io/skrctf-learning-docs/onboarding/02-first-challenge/</loc>
+         <lastmod>2026-10-29</lastmod>
+    </url>
+    <url>
+         <loc>https://ljkh00.github.io/skrctf-learning-docs/onboarding/03-webshell/</loc>
+         <lastmod>2026-10-29</lastmod>
+    </url>
+    <url>
+         <loc>https://ljkh00.github.io/skrctf-learning-docs/pathways/beginner/</loc>
+         <lastmod>2026-10-29</lastmod>
+    </url>
+</urlset>
