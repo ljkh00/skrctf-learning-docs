@@ -1,0 +1,24 @@
+site_name: SKRCTF Learning Docs
+site_url: https://ljkh00.github.io/skrctf-learning-docs/
+repo_url: https://github.com/ljkh00/skrctf-learning-docs
+edit_uri: edit/main/docs/
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+  features: [navigation.sections, navigation.footer, content.action.edit, search.suggest]
+markdown_extensions: [admonition, tables, pymdownx.details, pymdownx.superfences]
+nav:
+  - Start here: index.md
+  - Onboarding:
+      - 1. Create your account: onboarding/01-create-account.md
+      - 2. Solve your first challenge: onboarding/02-first-challenge.md
+      - 3. Use the webshell: onboarding/03-webshell.md
+  - Pathways:
+      - Beginner pathway: pathways/beginner.md
+  - Insights:
+      - What the data says: insights/metrics.md
+  - Contributing:
+      - Style guide: contributing/style-guide.md
+      - Write-up template: contributing/writeup-template.md
